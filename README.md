@@ -37,5 +37,4 @@ This is a simple **console-based quiz application** developed using **Java**. Th
 
 ---
 
-## 📸 Sample Output
 
